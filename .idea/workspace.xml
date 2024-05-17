@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e038d494-fb97-4448-b7fe-4581e2467226" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/prog/llm_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e038d494-fb97-4448-b7fe-4581e2467226" name="Changes" comment="first LangChain">
+      <change afterPath="$PROJECT_DIR$/prog/conversation-retrieval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog/output-parsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog/prompt-template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog/retrieval-chain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.llm_1.executor": "Run",
+    "Python.output-parsers.executor": "Run",
+    "Python.prompt-template.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -65,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715891415197</updated>
     </task>
+    <task id="LOCAL-00001" summary="first LangChain">
+      <option name="closed" value="true" />
+      <created>1715898175690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715898175690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first LangChain" />
+    <option name="LAST_COMMIT_MESSAGE" value="first LangChain" />
   </component>
 </project>
